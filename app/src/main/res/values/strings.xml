@@ -7,6 +7,8 @@
     <string name="nama">Muhammad Cakra Pandu Kusuma</string>
     <string name="email">cakrapand@gmail.com</string>
     <string name="share">Share</string>
+    <string name="desain">Desain</string>
+    <string name="tahun">Tahun</string>
     <string-array name="data_name">
         <item>Java</item>
         <item>C++</item>
@@ -19,6 +21,32 @@
         <item>PHP</item>
         <item>Javascript</item>
         <item>Swift</item>
+    </string-array>
+    <string-array name="data_desain">
+        <item>James Gosling</item>
+        <item>Bjarne Stroustrup</item>
+        <item>Guido van Rossum</item>
+        <item>Dennis Ritchie</item>
+        <item>Microsoft</item>
+        <item>Yukihiro Matsumoto</item>
+        <item>JetBrains</item>
+        <item>Lars Bak</item>
+        <item>Rasmus Lerdorf</item>
+        <item>Brendan Eich</item>
+        <item>Chris Lattner</item>
+    </string-array>
+    <string-array name="data_tahun">
+        <item>1991</item>
+        <item>1980</item>
+        <item>1994</item>
+        <item>1972</item>
+        <item>2000</item>
+        <item>1995</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>2014</item>
     </string-array>
     <string-array name="data_desc">
         <item>Java adalah salah satu bahasa pemrograman populer yang digunakan untuk mengembangkan aplikasi mobile, desktop, hingga website. Beberapa website besar dunia seperti, Yahoo!, LinkedIn, dan Spotify ternyata juga telah menggunakan Java untuk mengembangkan websitenya. Salah satu alasan populernya Java adalah fleksibilitasnya untuk digunakan di banyak platform. Tak heran sekitar 12 juta developer menggunakan Java untuk pengembangan aplikasi.</item>

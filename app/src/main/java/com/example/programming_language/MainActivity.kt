@@ -39,11 +39,13 @@ class MainActivity : AppCompatActivity() {
     private fun getListLanguage(): ArrayList<Language> {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDesc = resources.getStringArray(R.array.data_desc)
+        val dataDesain = resources.getStringArray(R.array.data_desain)
+        val dataTahun = resources.getStringArray(R.array.data_tahun)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
         val listLanguage = ArrayList<Language>()
 
         for (i in dataName.indices) {
-            val language = Language(dataName[i], dataDesc[i], dataPhoto.getResourceId(i, -1))
+            val language = Language(dataName[i], dataDesc[i], dataDesain[i], dataTahun[i], dataPhoto.getResourceId(i, -1))
             listLanguage.add(language)
         }
         return listLanguage

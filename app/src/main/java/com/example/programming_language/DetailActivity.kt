@@ -30,6 +30,8 @@ class DetailActivity : AppCompatActivity() {
         if(language != null){
             binding.tvDetailName.text = language.name
             binding.tvDetailDesc.text = language.desc
+            binding.tvDetailDesain.text = "Desain: ${language.desain}"
+            binding.tvDetailTahun.text = "Tahun: ${language.tahun}"
             binding.imgDetail.setImageResource(language.photo)
         }
 
