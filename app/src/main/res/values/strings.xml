@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">programming-language</string>
+    <string name="language_name">Nama Bahasa</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_me">About Me</string>
+    <string name="nama">Muhammad Cakra Pandu Kusuma</string>
+    <string name="email">cakrapand@gmail.com</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Java</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>Ruby</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>PHP</item>
+        <item>Javascript</item>
+        <item>Swift</item>
+    </string-array>
+    <string-array name="data_desc">
+        <item>Java adalah salah satu bahasa pemrograman populer yang digunakan untuk mengembangkan aplikasi mobile, desktop, hingga website. Beberapa website besar dunia seperti, Yahoo!, LinkedIn, dan Spotify ternyata juga telah menggunakan Java untuk mengembangkan websitenya. Salah satu alasan populernya Java adalah fleksibilitasnya untuk digunakan di banyak platform. Tak heran sekitar 12 juta developer menggunakan Java untuk pengembangan aplikasi.</item>
+        <item>C++ (dibaca: C plus-plus) adalah bahasa pemrograman komputer yang dibuat oleh Bjarne Stroustrup, yang merupakan perkembangan dari bahasa C dikembangkan di Bell Labs (Dennis Ritchie). Pada awal tahun 1970-an, bahasa itu merupakan peningkatan dari bahasa sebelumnya, yaitu B.</item>
+        <item>Python adalah bahasa pemrograman tujuan umum yang ditafsirkan, tingkat tinggi. Dibuat oleh Guido van Rossum dan pertama kali dirilis pada tahun 1991, filosofi desain Python menekankan keterbacaan kode dengan penggunaan spasi putih yang signifikan. Konstruksi bahasanya dan pendekatan berorientasi objek bertujuan untuk membantu pemrogram menulis kode yang jelas dan logis untuk proyek skala kecil dan besar.</item>
+        <item>Bahasa pemrograman C adalah bahasa pemrograman komputer tujuan umum. Dibuat pada tahun 1972 oleh Dennis Ritchie untuk Sistem Operasi Unix di Bell Telephone Laboratories. Dengan desain, Fitur C dengan jelas mencerminkan kemampuan CPU yang ditargetkan.</item>
+        <item>C# (dibaca: see sharp) merupakan sebuah bahasa pemrograman yang berorientasi objek yang dikembangkan oleh Microsoft sebagai bagian dari inisiatif kerangka .NET Framework. Bahasa pemrograman ini dibuat berbasiskan bahasa C++ yang telah dipengaruhi oleh aspek-aspek ataupun fitur bahasa yang terdapat pada bahasa-bahasa pemrograman lainnya seperti Java, Delphi, Visual Basic, dan lain-lain) dengan beberapa penyederhanaan. Menurut standar ECMA-334 C# Language Specification, nama C# terdiri atas sebuah huruf Latin C (U+0043) yang diikuti oleh tanda pagar yang menandakan angka # (U+0023). Tanda pagar # yang digunakan memang bukan tanda kres dalam seni musik (U+266F), dan tanda pagar # (U+0023) tersebut digunakan karena karakter kres dalam seni musik tidak terdapat di dalam papan tombol standar.</item>
+        <item>Ruby adalah bahasa pemrograman dinamis berbasis skrip yang berorientasi objek. Tujuan dari ruby adalah menggabungkan kelebihan dari semua bahasa-bahasa pemrograman skrip yang ada di dunia. Ruby ditulis dengan bahasa pemrograman C dengan kemampuan dasar seperti Perl dan Python.</item>
+        <item>Kotlin adalah sebuah bahasa pemrograman dengan pengetikan statis yang berjalan pada Mesin Virtual Java ataupun menggunakan kompiler LLVM yang dapat pula dikompilasikan kedalam bentuk kode sumber JavaScript. Pengembang utamanya berasal dari tim programer dari JetBrains yang bermarkas di Rusia.[2] Meskipun sintaksisnya tidak kompatibel dengan bahasa Java, Kotlin didesain untuk dapat bekerja sama dengan kode bahasa Java dan bergantung kepada kode bahasa Java dari Kelas Pustaka Java yang ada, seperti berbagai framework Java yang ada. Tim Pengembang memutuskan menamakannya Kotlin dengan mengambil nama dari sebuah pulau di Rusia, sebagaimana Java yang mengambil nama dari pulau Jawa di Indonesia.[3] Setelah Google mengumumkan bahwa Kotlin menjadi bahasa kelas satu bagi Android, maka bersama Java dan C++, Kotlin menjadi bahasa resmi untuk pengembangan aplikasi-aplikasi Android</item>
+        <item>Dart dirancang dan dikembangkan oleh Lars Bak dan Kasper Lund di Google yang secara resmi diperkenalkan pada Oktober 2011 di Konferensi GOTO, Denmark dan versi pertama Dart yaitu versi 1.0 resmi dirilis pada Nov 2013. Untuk menstandarisasi programming language yang baru dibuat, Ecma International membuat komite teknis yang dikenal sebagai TC52, dan Fakta bahwa kode Dart dapat dikompilasi ke dalam JavaScript telah membuat bahasa ini cukup kompatibel dengan banyak browser web modern. Hal ini menyebabkan standardisasi yang tak terhindarkan pada Juli 2014, ketika Ecma International menyetujui edisi pertama spesifikasi bahasa Dart di Majelis Umum ke-107 badan internasional tersebut.</item>
+        <item>PHP: Hypertext Preprocessor[5] (sebelumnya disebut Personal Home Pages) atau hanya PHP saja, adalah bahasa skrip dengan fungsi umum yang terutama digunakan untuk pengembangan web.[6] Bahasa ini awalnya dibuat oleh seorang pemrogram Denmark-Kanada Rasmus Lerdorf pada tahun 1994.[7] Implementasi referensi PHP sekarang diproduksi oleh The PHP Group.[8] PHP awalnya merupakan singkatan dari Personal Home Page,[7] tetapi sekarang merupakan singkatan dari inisialisasi rekursif PHP: Hypertext Preprocessor</item>
+        <item>JavaScript (/ˈdʒɑːvəˌskrɪpt/[9]) (disingkat JS) adalah suatu bahasa pemrograman tingkat tinggi dan dinamis.[10] JavaScript populer di internet dan dapat bekerja di sebagian besar penjelajah web populer seperti Google Chrome, Internet Explorer (IE), Mozilla Firefox, Netscape dan Opera. Kode JavaScript dapat disisipkan dalam halaman web menggunakan tag script.[11] JavaScript merupakan salah satu teknologi inti World Wide Web selain HTML dan CSS. JavaScript membantu membuat halaman web interaktif dan merupakan bagian aplikasi web yang esensial.</item>
+        <item>Swift adalah bahasa pemrograman objek fungsional untuk pengembangan iOS dan OS X yang dibuat oleh Apple.[10] Didesain untuk berdampingan dengan Objective-C dan menghindari program dari kode yang salah. Swift diperkenalkan oleh Apple pada acara tahunan WWDC 2014.[10] Ini dibangun dengan compiler LLVM yang termasuk dalam Xcode 6 beta. Sebuah buku berisi 500 halaman petunjuk, The Swift Programming Language, dirilis bersamaan dengan WWDC, dan tersedia secara gratis di iBooks.[11]</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/java</item>>
+        <item>@drawable/cpp</item>>
+        <item>@drawable/python</item>>
+        <item>@drawable/c</item>>
+        <item>@drawable/csharp</item>>
+        <item>@drawable/ruby</item>>
+        <item>@drawable/kotlin</item>>
+        <item>@drawable/dart</item>>
+        <item>@drawable/php</item>>
+        <item>@drawable/js</item>>
+        <item>@drawable/swift</item>>
+    </integer-array>
+</resources>
