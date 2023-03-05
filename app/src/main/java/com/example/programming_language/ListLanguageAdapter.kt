@@ -16,7 +16,7 @@ class ListLanguageAdapter(private val listLanguage: ArrayList<Language>, private
     }
 
     override fun onBindViewHolder(holder: ListLanguageAdapter.ListViewHolder, position: Int) {
-        val (name, desc, photo) = listLanguage[position]
+        val (name, desc, desain, tahun, photo) = listLanguage[position]
         holder.binding.tvItemName.text = name
         holder.binding.tvItemDescription.text = desc
         holder.binding.imgItemPhoto.setImageResource(photo)
